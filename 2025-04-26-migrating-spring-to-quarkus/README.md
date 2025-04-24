@@ -55,8 +55,7 @@ Desde a versão 8, a linguagem tem recebido melhorias importantes, especialmente
 
 ## Lives:
 
-### [Rafael Benevides - Java & Kubernetes: O Guia Para um Relacionamento Saudável
-](https://www.youtube.com/watch?v=Oh7X89tMe3A)
+### [Rafael Benevides - Java & Kubernetes: O Guia Para um Relacionamento Saudável](https://www.youtube.com/watch?v=Oh7X89tMe3A)
 
 ### [25 Anos de Java: Modern Cloud Native Java/Jakarta EE Frameworks: tips, challenges, and trends](https://www.youtube.com/watch?v=jEkmVX9d5CY)
 
