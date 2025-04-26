@@ -49,7 +49,7 @@ Yearly > Monthly > Daily > Instantly
 
 # Java e consumo de memória
 
-O Java sempre teve a fama de ser uma plataforma lenta e pesada. Essa percepção foi válida por um tempo, especialmente quando comparado a outras linguagens e runtimes. No entanto, o Java evoluiu — e continua evoluindo rapidamente.
+O Java sempre teve a fama de ser uma plataforma lenta e pesada. Essa percepção foi "válida" por um tempo, especialmente quando comparado a outras linguagens e runtimes na era de containers e cloud. No entanto, o Java evoluiu — e continua evoluindo rapidamente.
 
 Desde a versão 8, a linguagem tem recebido melhorias importantes, especialmente no contexto de containers. Além disso, questões como tempo de inicialização e consumo de memória também vêm sendo endereçadas com bastante foco, tornando o Java cada vez mais adequado para ambientes modernos e exigentes.
 
